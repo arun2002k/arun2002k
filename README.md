@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤓 Focus and Objective Driven Person.<br>🔭 Completed several projects in Face Recognition.<br>😎 Familiar in C, C++, Java, Python and Front-end Development.<br>🌱 I’m currently learning Back-end Development.<br>💬 Ask me about my Projects (Intelligent Movement Tracking Robot and Ticket Booking using Face ID).<br>⚡ Fun fact! , Binge watching (Anime, Movies and Series) is my hobby. 
+🤓 Focus and Objective Driven Person.<br>🔭 Completed several projects in Face Recognition.<br>😎 Familiar in C, C++, Java, Python and Front-end Development.<br>🌱 I’m currently focusing on Cloud Computing.<br>💬 Ask me about my Projects (Intelligent Movement Tracking Robot and Ticket Booking using Face ID).<br>⚡ Fun fact! , Binge watching (Anime, Movies and Series) is my hobby. 
 
 * 🖥️  See my portfolio at [AK_portfolio](https://arun2002k.github.io/AK_portfolio/)
 * ✉️  You can contact me at [arun68002k@gmail.com](mailto:arun68002k@gmail.com)
